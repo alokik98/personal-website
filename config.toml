@@ -1,0 +1,25 @@
+baseURL = "http://alokik.me"
+languageCode = "en-us"
+title = "Alokik Kanchan"
+theme = "akpw-theme"
+
+[menu]
+[[menu.main]]
+name = "Homepage"
+URL = "/"
+weight = 2
+
+[[menu.main]]
+name = "Who am I?"
+URL = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Github"
+URL = "https://github.com/alokik98"
+weight = 4
+
+[[menu.main]]
+name = "How to reach me?"
+url = "contact"
+weight = 5
